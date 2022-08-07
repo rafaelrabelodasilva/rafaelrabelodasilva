@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lephyns
 - 🌱 I’m currently learning Cypress, JavaScript and Node.js
 - 💞️ I love cats
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rafaelrabelodasilva@outlook.com
 
 <!---
