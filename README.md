@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lephyns
+- 👋 Hi, I’m Rafael
 - 🌱 I’m currently learning Cypress, JavaScript and Node.js
 - 💞️ I love cats
 - 📫 How to reach me https://www.linkedin.com/in/rafarabelllo/
