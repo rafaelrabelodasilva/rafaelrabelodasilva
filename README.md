@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rafael
-- 🌱 I’m currently learning HTML5, CSS3, Cypress, JavaScript and Node.js
+- 🌱 I’m currently learning HTML5, CSS3, Cypress and JavaScript
 - 💞️ I love cats
 - 📫 How to reach me https://www.linkedin.com/in/rafarabelllo/
 
