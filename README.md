@@ -1,11 +1,13 @@
-- 👋 Hi, I’m Rafael
-- 😎 I’m currently learning JavaScript, Cypress, HTML5 and CSS3.
-- 💞️ I love cats 🐱
-- 💻 How to reach me https://www.linkedin.com/in/rafarabelllo/
-
-![img](https://i.imgur.com/P5iwtJf.gifv)
-
-<!---
-lephyns/lephyns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<table>
+  <tr>    
+    <td> 
+	    <li>👋 Hi, I’m Rafael, 26y</li>
+	    <li>😎 I’m currently learning JavaScript, Cypress, HTML5 and CSS3</li>
+	    <li>💞️ I love cats 🐱</li>
+	    <li>💻 How to reach me https://www.linkedin.com/in/rafarabelllo/"</li>
+	  </td> 
+	  <td>
+    <img  width="300" height="300" src='https://user-images.githubusercontent.com/103958944/200185876-d23d19d2-b095-495d-b859-8453235cce8e.gif'>
+    </td>
+  </tr>
+</table>
