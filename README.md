@@ -1,5 +1,5 @@
-<img align="right" width="300" src='https://user-images.githubusercontent.com/103958944/200185876-d23d19d2-b095-495d-b859-8453235cce8e.gif'>
-
+<!-- <img align="right" width="250px" src='https://user-images.githubusercontent.com/103958944/200185876-d23d19d2-b095-495d-b859-8453235cce8e.gif'>
+ -->
 ### 👋 Hi! Welcome to my Github profile 😁
 #### I'm Rafael, 26y and I live in the south of Brazil!
 
