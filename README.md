@@ -11,6 +11,7 @@
     </td>
   </tr>
 </table>
+
 ## Tecnologias que possuo conhecimento:
 
 <div style="display: inline_block"><br/>
