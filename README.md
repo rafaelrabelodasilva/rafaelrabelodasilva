@@ -6,7 +6,7 @@
 🔭 I’m currently working as a Quality Assurane<br>
 🌱 I’m currently learning JavaScript and Cypress<br>
 👨‍💻 All of my projects are available at Github<br>
-📫 How to reach me https://www.linkedin.com/in/rafarabelllo/"
+📫 How to reach me https://www.linkedin.com/in/rafarabelllo/
 
 #### Technologies I know about:
 <div>
