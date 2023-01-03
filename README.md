@@ -3,7 +3,7 @@
 ### 👋 Hi! Welcome to my Github profile 😁
 #### I'm Rafael, 26y and I live in the south of Brazil!
 
-🔭 I’m currently working as a Quality Assurane.<br>
+🔭 I’m currently working as a Quality assurance.<br>
 🌱 I’m currently learning JavaScript and Cypress.<br>
 👨‍💻 All of my projects are available at Github.<br>
 
