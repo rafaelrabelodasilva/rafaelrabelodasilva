@@ -3,7 +3,7 @@
 ### 👋 Olá! Bem-vindo ao meu Github 😁
 #### Me chamo Rafael, tenho 26 anos e moro no sul do Brasil!
 
-🔭 Atualmente estou trabalhando como Quality assurance.<br>
+🔭 Atualmente estou trabalhando como Quality assurance em uma empresa de análise de crédito.<br>
 🌱 Estou apredendo JavaScript e Cypress.<br>
 👨‍💻 Meus projetos estão todos no Github<br>
 
