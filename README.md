@@ -5,7 +5,7 @@
 
 🔭 Atualmente estou trabalhando como Quality assurance em uma empresa de análise de crédito.<br>
 🌱 Estou apredendo JavaScript e Cypress.<br>
-👨‍💻 Meus projetos estão todos no Github<br>
+👨‍💻 Meus projetos estão todos no Github.<br>
 
 #### Tecnologias que tenho conhecimento:
 <div>
