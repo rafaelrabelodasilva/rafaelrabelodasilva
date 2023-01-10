@@ -1,13 +1,13 @@
 <!-- <img align="right" width="250px" src='https://user-images.githubusercontent.com/103958944/200185876-d23d19d2-b095-495d-b859-8453235cce8e.gif'>
  -->
-### 👋 Hi! Welcome to my Github profile 😁
-#### I'm Rafael, 26y and I live in the south of Brazil!
+### 👋 Olá! Bem-vindo ao meu Github 😁
+#### Me chamo Rafael, tenho 26 anos e moro no sul do Brasil!
 
-🔭 I’m currently working as a Quality assurance.<br>
-🌱 I’m currently learning JavaScript and Cypress.<br>
-👨‍💻 All of my projects are available at Github.<br>
+🔭 Atualmente estou trabalhando como Quality assurance.<br>
+🌱 Estou apredendo JavaScript e Cypress.<br>
+👨‍💻 Meus projetos estão todos no Github<br>
 
-#### Technologies I know about:
+#### Tecnologias que tenho conhecimento:
 <div>
 <img width="50" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img width="50" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
