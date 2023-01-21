@@ -1,7 +1,7 @@
 <!-- <img align="right" width="250px" src='https://user-images.githubusercontent.com/103958944/200185876-d23d19d2-b095-495d-b859-8453235cce8e.gif'>
  -->
 ### 👋 Olá! Bem-vindo ao meu GitHub 😁
-#### Me chamo Rafael, tenho 26 anos e moro no sul do Brasil!
+#### Me chamo Rafael, tenho 26 anos e moro no sul do Brasil! 🌎
 
 🔭 Atualmente estou trabalhando como Quality assurance em uma empresa de análise de crédito.<br>
 🌱 Estou apredendo JavaScript e Cypress.<br>
