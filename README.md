@@ -48,8 +48,7 @@ Meu nome é Rafael, tenho 26 anos e sou QA. Moro no sul do Brasil e estou animad
 
 Você pode me encontrar em outras plataformas:
 
-- [LinkedIn](https://www.linkedin.com/in/seu-linkedin/)
-- [Twitter](https://twitter.com/seu-twitter)
+- [LinkedIn](https://www.linkedin.com/in/rafaelrabelodasilva/)
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato se quiser discutir colaborações ou apenas bater um papo sobre tecnologia!
 
