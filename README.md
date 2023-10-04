@@ -1,4 +1,4 @@
-# Olá, eu sou Rafael! 👋
+# Olá! 👋
 
 Tenho 26 anos e sou QA. Moro no sul do Brasil e estou animado para compartilhar meu aprendizado no mundo da automação de testes e desenvolvimento web.
 
