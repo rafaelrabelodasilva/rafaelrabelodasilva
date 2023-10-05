@@ -1,29 +1,22 @@
 # Olá! 👋
 
-Meu nome é Rafael, tenho 26 anos e sou QA. Moro no sul do Brasil e estou animado para compartilhar meu aprendizado no mundo da automação de testes e desenvolvimento web.
+Meu nome é Rafael, tenho 26 anos e sou QA. Moro no sul do Brasil e utilizo o GitHub para compartilhar meu aprendizado no mundo da automação de testes e desenvolvimento web.
 
 ## Sobre Mim
 
 - 🔭 Atualmente trabalho como QA em uma empresa de análise de crédito.
 - 👨‍💻 Meus projetos e aprendizados estão todos aqui no GitHub.
-- 🌱 Atualmente, estou aprendendo e explorando o mundo do ReactJS.
+- 🌱 Atualmente, estou aprendendo e explorando o mundo do ReactJS e Cypress.
 
 ## Tecnologias
 
-### No Trabalho
+### Utilizo atualmente no trabalho
 
 - JavaScript
 - Cypress
 - Cucumber
-- Node.js
-- Vue.js
 - Azure
-- Visual Studio Code
 - Filezilla
-- Git
-- Markdown
-- npm
-- yarn
 - MongoDB
 - MySQL
 - PostgreSQL
@@ -34,6 +27,7 @@ Meu nome é Rafael, tenho 26 anos e sou QA. Moro no sul do Brasil e estou animad
 - CSS3
 - TypeScript
 - React
+- Vue.js
 - Jest
 - Selenium
 - Mocha
