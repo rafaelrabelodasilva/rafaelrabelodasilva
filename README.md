@@ -21,7 +21,7 @@ Meu nome é Rafael, tenho 26 anos e sou QA. Moro no sul do Brasil e utilizo o Gi
 - MySQL
 - PostgreSQL
 
-### Em Meus Projetos Pessoais
+### Já utilizei nos meus projetos pessoais
 
 - HTML5
 - CSS3
