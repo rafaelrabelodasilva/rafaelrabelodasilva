@@ -38,11 +38,12 @@ Meu nome é Rafael, tenho 26 anos e sou QA. Moro no sul do Brasil e utilizo o Gi
 - Bootstrap
 - Bulma
 
-## Onde Me Encontrar
+## Onde me encontrar
 
 Você pode me encontrar em outras plataformas:
 
 - [LinkedIn](https://www.linkedin.com/in/rafaelrabelodasilva/)
+- [E-mail](rafaelrabelodasilva@outlook.com)
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato se quiser discutir colaborações ou apenas bater um papo sobre tecnologia!
 
