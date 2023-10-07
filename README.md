@@ -2,7 +2,7 @@
 
 Meu nome é Rafael, tenho 26 anos e sou QA. Moro no sul do Brasil e utilizo o GitHub para compartilhar meu aprendizado no mundo da automação de testes e desenvolvimento web.
 
-## Sobre Mim
+## Sobre mim
 
 - 🔭 Trabalho como QA em uma empresa de análise de crédito.
 - 👨‍💻 Meus projetos e aprendizados estão todos aqui no GitHub.
