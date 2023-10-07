@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Meu nome é Rafael, tenho 26 anos e sou QA. Moro no sul do Brasil e utilizo o GitHub para compartilhar meu aprendizado no mundo da automação de testes e desenvolvimento web.
+Meu nome é Rafael, tenho 27 anos e sou QA. Moro no sul do Brasil e utilizo o GitHub para compartilhar meu aprendizado no mundo da automação de testes e desenvolvimento web.
 
 ## Sobre mim
 
@@ -43,7 +43,7 @@ Meu nome é Rafael, tenho 26 anos e sou QA. Moro no sul do Brasil e utilizo o Gi
 Você pode me encontrar em outras plataformas:
 
 - [LinkedIn](https://www.linkedin.com/in/rafaelrabelodasilva/)
-- [E-mail](rafaelrabelodasilva@outlook.com)
+- E-mail: rafaelrabelodasilva@outlook.com
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato se quiser discutir colaborações ou apenas bater um papo sobre tecnologia!
 
