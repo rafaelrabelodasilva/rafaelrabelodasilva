@@ -8,36 +8,6 @@ Meu nome é Rafael, tenho 27 anos e sou QA. Moro no sul do Brasil e utilizo o Gi
 - 👨‍💻 Meus projetos e aprendizados estão todos aqui no GitHub.
 - 🌱 Atualmente estou aprendendo e explorando o mundo do ReactJS e Cypress.
 
-## Tecnologias
-
-### Utilizo atualmente no trabalho
-
-- JavaScript
-- Cypress
-- Cucumber
-- Azure
-- Filezilla
-- MongoDB
-- MySQL
-- PostgreSQL
-
-### Já utilizei nos meus projetos pessoais
-
-- HTML5
-- CSS3
-- TypeScript
-- React
-- Vue.js
-- Jest
-- Selenium
-- Mocha
-- Docker
-- Composer
-- Jira
-- Confluence
-- Bootstrap
-- Bulma
-
 ## Onde me encontrar
 
 Você pode me encontrar em outras plataformas:
