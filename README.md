@@ -4,7 +4,7 @@ Meu nome é Rafael, tenho 27 anos e sou QA. Moro no sul do Brasil e utilizo o Gi
 
 ## Sobre mim
 
-- 🔭 Trabalho como QA em uma empresa de análise de crédito.
+- 🔭 Trabalho como QA em uma empresa de Comércio exterior.
 - 👨‍💻 Meus projetos e aprendizados estão todos aqui no GitHub.
 - 🌱 Atualmente estou aprendendo e explorando o mundo do ReactJS e Cypress.
 
