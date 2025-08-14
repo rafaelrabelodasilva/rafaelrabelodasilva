@@ -4,7 +4,7 @@ Meu nome é Rafael, tenho 28 anos e sou QA. Moro no sul do Brasil e utilizo o Gi
 
 ## Sobre mim
 
-- 🔭 Trabalho como QA em uma empresa de Comércio exterior.
+- 🔭 Trabalho como QA em uma empresa de desenvolvimento de sistemas para instituições financeiras.
 - 👨‍💻 Meus projetos e aprendizados estão todos aqui no GitHub.
 - ⭐ Automação de testes.
 
@@ -16,4 +16,3 @@ Você pode me encontrar em outras plataformas:
 - E-mail: rafaelrabelodasilva@outlook.com
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato se quiser discutir colaborações ou apenas bater um papo sobre tecnologia!
-
