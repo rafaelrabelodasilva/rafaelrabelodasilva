@@ -6,7 +6,7 @@ Meu nome é Rafael, tenho 28 anos e sou QA. Moro no sul do Brasil e utilizo o Gi
 
 - 🔭 Trabalho como QA em uma empresa de desenvolvimento de sistemas para instituições financeiras.
 - 👨‍💻 Meus projetos e aprendizados estão todos aqui no GitHub.
-- ⭐ Automação de testes.
+- ⭐ Automação de testes + IA.
 
 ## Onde me encontrar
 
